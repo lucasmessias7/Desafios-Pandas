@@ -11,5 +11,5 @@ Desafios: Exercícios práticos para reforçar o aprendizado dos conceitos abord
 
 Soluções: Exemplos de soluções para os desafios propostos.
 
-link do trello onde foi proposto o os desafios da aula:
+link do trello onde foi proposto as tarefas da aula:
 https://trello.com/b/AslOk45X/pandas-conhecendo-a-biblioteca
